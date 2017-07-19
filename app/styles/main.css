@@ -54,6 +54,9 @@ header{
     background-color: red;
     color: #fff;
 }
+.invalid{
+    color: #dd0017
+}
 
 .form-control {
     padding: 10px;
